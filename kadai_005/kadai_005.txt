@@ -8,4 +8,5 @@ git commit -m "first commit"
 echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m "second commit"
+git status
 git log --oneline
